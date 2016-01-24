@@ -2,7 +2,9 @@
 
 StoryTime is a 'lite' remake of the popular MMORPG game MapleStory. Although written in Java, it also incorporates JSON, XML, and Java Internal Reflection techniques.
 
-Currently, the game is a 2D singleplayer platformer with survival aspects only. The player chooses a character and a map, and proceeds to survive as long as possible with enemies spawning in waves of increasing difficulty.
+The game is a 2D singleplayer platformer with survival aspects only. The player chooses a character and a map, and proceeds to survive as long as possible with enemies spawning in waves of increasing difficulty.
+
+**DOWNLOAD CURRENT VERSION (v1.00):** [StoryTime.jar - DropBox Link](https://dl.dropboxusercontent.com/u/36132405/Projects/storytimev100_runnable.zip)
 
 # Why? #
 The goal of this project was purely for educational purposes, that is, to develop an understanding of game design and the game development process. LibGDX (an open source Java-based game development framework) was used as the underlying graphics engine.
