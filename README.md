@@ -1,6 +1,6 @@
 ![storytime.png](https://bitbucket.org/repo/oX9rLp/images/1026898476-storytime.png)
 
-StoryTime is a 'lite' remake of the popular MMORPG game MapleStory, written in Java. Although written in Java, it also incorporates JSON, XML, and Java Internal Reflection techniques.
+StoryTime is a 'lite' remake of the popular MMORPG game MapleStory. Although written in Java, it also incorporates JSON, XML, and Java Internal Reflection techniques.
 
 Currently, the game is a 2D singleplayer platformer with survival aspects only. The player chooses a character and a map, and proceeds to survive as long as possible with enemies spawning in waves of increasing difficulty.
 
